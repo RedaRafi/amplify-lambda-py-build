@@ -1,0 +1,9 @@
+{
+	"function": {
+		"hellopy": {
+			"build": true,
+			"providerPlugin": "awscloudformation",
+			"service": "Lambda"
+		}
+	}
+}

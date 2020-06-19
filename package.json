@@ -1,0 +1,11 @@
+{
+  "name": "amplify-py-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "amplify-push": "chmod +x ./scripts/pybuild.sh && ./scripts/pybuild.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}
