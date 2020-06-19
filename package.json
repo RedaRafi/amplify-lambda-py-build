@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "amplify-push": "chmod +x ./scripts/pybuild.sh && ./scripts/pybuild.sh"
+    "amplify-push": "chmod +x ./scripts/amplify-py-build.sh && ./scripts/amplify-py-build.sh"
   },
   "author": "",
   "license": "ISC"
