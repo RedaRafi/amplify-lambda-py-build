@@ -1,5 +1,3 @@
-# SAM Templates for Server-side Swift on AWS
-
 This project contains a Cookiecutter template to create a serverless application based on the [AWS Serverless Application Model (SAM)](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-specification.html) and Swift.
 
 ## Get the Tools
